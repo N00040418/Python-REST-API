@@ -1,0 +1,16 @@
+# Copyright 2021 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+runtime: python39
+#################################
+# in you main ("HOME") folder....
+#################################
+# create environment
+#     - mkdir myproject
+#     - cd myproject
+#     - (python3 -m venv venv) <-----M or W-----> (py -3 -m venv venv)
+# activate environment
+#     - (. venv/bin/activate)  <-----M or W-----> (> venv\Scripts\activate)
+# install flask
+#     - pip install flask
